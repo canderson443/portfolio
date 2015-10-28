@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.nav{
+	text-align:center;
+	
+	
+
+}
+.nav li{
+	border:solid white thin;
+	border-radius:5px;
+	width:50px;
+	display:inline;
+	color:white;
+}
+
+
+a{
+	color:white;
+	text-decoration:none;
+}
+
+.bar{
+	margin-left:350px;
+}
