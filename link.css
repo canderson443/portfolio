@@ -23,3 +23,18 @@ a{
 .bar{
 	margin-left:350px;
 }
+
+.nav a:visited{
+	color:white;
+	text-decoration:none;
+	
+}
+
+.container{
+	margin-left:180px;
+}
+
+html{
+	background-color:black;
+}
+	
